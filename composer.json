@@ -12,7 +12,10 @@
         }
     },
 
-    "require": {},
+    "require": {
+        "guzzlehttp/psr7": "^1.6",
+        "guzzlehttp/guzzle": "^6.4"
+    },
     "require-dev": {
         "phpunit/phpunit": "^8.4"
     }
